@@ -1,0 +1,2 @@
+# dpirc
+/r/DailyProgrammer IRC
