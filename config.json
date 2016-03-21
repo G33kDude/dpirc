@@ -1,0 +1,8 @@
+{
+	"serv": "chat.freenode.net",
+	"port": 6667,
+	"nick": "dpirc",
+	"user": "dpirc",
+	"name": "DailyProgrammer IRC",
+	"chan": "#rdp,#reddit-dailyprogrammer"
+}
